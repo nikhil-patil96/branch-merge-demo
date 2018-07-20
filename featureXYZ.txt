@@ -1,3 +1,7 @@
 new feature branch
 
+<<<<<<< HEAD
 new content added
+=======
+new content added in feature XYZ
+>>>>>>> feature-xyz
